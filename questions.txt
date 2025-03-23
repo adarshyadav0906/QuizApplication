@@ -1,0 +1,5 @@
+What is the capital of France?;Paris;London;Berlin;Madrid
+Which programming language is known for web development?;Python;Java;C++;Ruby
+What is the largest planet in our solar system?;Jupiter;Mars;Earth;Saturn
+Who wrote 'Hamlet'?;Shakespeare;Dickens;Austen;Hemingway
+What is the square root of 64?;8;6;7;9
